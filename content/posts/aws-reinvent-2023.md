@@ -14,7 +14,6 @@ cover:
   relative: false
 showToc: true
 ShowReadingTime: true
-tocopen: true
 ---
 
 AWS re:Invent 2023 후기를 간단히 작성하였습니다.
