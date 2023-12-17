@@ -13,6 +13,8 @@ params:
   socialIcons:
     - name: 'github'
       url: 'https://github.com/minuchi'
+    - name: 'linkedin'
+      url: 'https://www.linkedin.com/in/minuchi/'
     - name: 'email'
       url: 'mailto:me@minwoo.kim'
   env: 'production'
@@ -22,3 +24,5 @@ params:
     google:
       SiteVerificationTag: 'CJVLd1xPaZ7Df3oS7VfZDAFaMTcdYqlO0XQkfRKQ1yk'
   comments: true
+  ShowShareButtons: true
+  ShareButtons: ["linkedin", "twitter", "facebook", "telegram"]
