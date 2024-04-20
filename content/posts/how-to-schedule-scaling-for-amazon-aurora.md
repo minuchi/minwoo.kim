@@ -55,7 +55,7 @@ aws application-autoscaling register-scalable-target \
 위와 같이 응답이 오면 정상적으로 등록이 된 것이다.
 
 
-### 확인
+### Scalable Target 목록 확인
 
 성공적으로 Scalable Target이 등록된지 확인할 방법으로는 아래 명령어를 수행하는 방법이 있다.
 
