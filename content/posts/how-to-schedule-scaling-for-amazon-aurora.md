@@ -8,7 +8,7 @@ date: 2024-04-20T07:59:15.424Z
 tags:
   - AWS
   - RDS
-title: 'Amazon Aurora Auto Scaling을 이용하여 원하는 시간에 스케줄링하기'
+title: 'Amazon Aurora Auto Scaling을 이용하여 원하는 시간에 스케줄링'
 cover:
   image: '/assets/img/aws-smile.jpg'
   alt: 'AWS Smile'
