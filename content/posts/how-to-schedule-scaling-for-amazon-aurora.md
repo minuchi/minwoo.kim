@@ -24,6 +24,8 @@ Amazon RDS 콘솔에서는 보이지 않지만, `aws application-autoscaling` CL
 
 ## 사전 조건
 
+### Scalable Target 등록
+
 우선 Amazon RDS Aurora MySQL 또는 PostgreSQL을 사용하고 있어야 한다.  
 Auto Scaling이 설정되어 있다면 상관없지만 걸려있지 않다면 아래 명령어를 이용하여 MinCapacity, MaxCapcity를 설정해 준다.  
 만약 Auto Scaling이 설정되어 있다면 해당 명령어는 실패한다.
