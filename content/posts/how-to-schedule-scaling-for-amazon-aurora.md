@@ -205,7 +205,7 @@ aws application-autoscaling describe-scheduled-actions \
             "ResourceId": "cluster:<DB_CLUSTER_NAME>",
             "ScalableDimension": "rds:cluster:ReadReplicaCount",
             "ScalableTargetAction": {
-                "MinCapacity": 1,
+                "MinCapacity": 2,
                 "MaxCapacity": 4
             },
             "CreationTime": "2024-04-20T16:43:06.950000+09:00"
