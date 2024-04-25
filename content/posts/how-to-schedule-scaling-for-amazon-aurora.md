@@ -20,7 +20,8 @@ Amazon RDS Aurora MySQL, PostgreSQL은 Auto Scaling을 현재 지원하고 있�
 현재 해당 글을 쓰는 시점으로 CPU 사용률 또는 Connection 수로 Scaling을 할 수 있다.
 
 하지만 원하는 시간에 DB를 Scaling 하려면 어떻게 해야 할까?  
-Amazon RDS 콘솔에서는 보이지 않지만, `aws application-autoscaling` CLI를 이용하면 설정할 수 있다.
+Amazon RDS 콘솔에서는 보이지 않지만, `aws application-autoscaling` CLI를 이용하면 설정할 수 있다.  
+Terraform을 이용하여 등록하는 방법은 [해당 문서](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/appautoscaling_scheduled_action)를 참고한다.
 
 ## 사전 조건
 
