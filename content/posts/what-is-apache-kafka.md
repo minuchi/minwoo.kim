@@ -8,7 +8,7 @@ tags:
 title: "Apache Kafka란?"
 showToc: true
 cover:
-  image: "/assets/img/kafka.jpeg"
+  image: "/assets/img/kafka.jpg"
   alt: "Coding"
   relative: false
 ---

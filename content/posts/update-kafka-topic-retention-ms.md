@@ -7,7 +7,7 @@ tags:
   - kafka
 title: 'Kafka topic retention.ms 변경하는 법'
 cover:
-  image: '/assets/img/kafka.jpeg'
+  image: '/assets/img/kafka.jpg'
   alt: 'Coding'
   relative: false
 ---
