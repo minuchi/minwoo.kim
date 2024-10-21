@@ -2,7 +2,7 @@
 author: minwoo.kim
 categories:
   - kafka
-date: 2024-10-20T20:32:00Z
+date: 2024-10-21T05:32:00Z
 tags:
   - kafka
 title: "Apache Kafka란?"
